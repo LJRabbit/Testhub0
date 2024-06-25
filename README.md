@@ -1,7 +1,7 @@
 # 리드미 예제
 ## _프로젝트 테스트_
 
-[![Build Status](https://test)
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/LJRabbit)
 
 ## ✨수행 절차✨
 
