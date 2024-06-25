@@ -12,6 +12,7 @@
  MNIST train 6만장 test 3만장으로 사용
 
 결과 이미지는 
+
 ![image1](output.jpg)
 
 전체 설계도는 ![image2](architecture.jpg)로 만들었다.
