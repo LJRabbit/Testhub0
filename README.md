@@ -17,7 +17,7 @@
 
 전체 설계도는 ![image2](architecture.jpg)로 만들었다.
 
-- 참고
+## 참고
 Krizhevsky, Alex,
  Ilya Sutskever, and Geoffrey E. Hinton. "Imagenet classification 
  with deep convolutional neural networks." Advances in neural 
