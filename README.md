@@ -11,11 +11,12 @@
 -딥러닝은 CNN을 사용하였으며, 데이터는 0~9의 숫자 이미지로 이루어진
  MNIST train 6만장 test 3만장으로 사용
 
-결과 이미지는 
+- 결과 이미지
 
 ![image1](output.jpg)
 
-전체 설계도는 ![image2](architecture.jpg)로 만들었다.
+- 전체 설계도는
+![image2](architecture.jpg)로 만들었다.
 
 ## 참고
 Krizhevsky, Alex,
