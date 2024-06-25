@@ -15,9 +15,9 @@
 
 ![image1](output.jpg)
 
-- 전체 설계도는
+- 전체 설계도
 
-![image2](architecture.jpg)로 만들었다.
+![image2](architecture.jpg)
 
 ## 참고
 Krizhevsky, Alex,
